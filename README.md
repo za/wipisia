@@ -3,7 +3,7 @@ wipisia
 
 Wiki Python Indonesia
 
-Selamat datang di repositori git [wipisia](https://github.com/za/wipisia). Dalam repositori ini rencananya akan berisi _source code_ aplikasi wiki Python Indonesia. wipisia akan menggunakan [moinmoin]() sebagai _wiki engine_. Dukungan dapat disampaikan dengan mengirim Pull Request. Saran dapat disampaikan dengan membuat New Issue.
+Selamat datang di repositori git [wipisia](https://github.com/za/wipisia). Dalam repositori ini rencananya akan berisi _source code_ aplikasi wiki Python Indonesia. wipisia akan menggunakan [moinmoin](http://moinmo.in/) sebagai _wiki engine_. Dukungan dapat disampaikan dengan mengirim Pull Request. Saran dapat disampaikan dengan membuat New Issue.
 
 Daftar _requirement:_
 
